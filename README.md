@@ -41,18 +41,16 @@ Flask | SQLAlchemy | MSSQL | Socket.IO | React | Redux | Material-UI | JWT | Axi
 Here are some highlights from the Social App interface:
 
 ### 📰 Feed & Friends List
-![Feeds Window](https://user-images.githubusercontent.com/133280306/270230273-63f9c9b1-7196-426c-a774-92015478dc0e.jpg)
+![Feeds Window](https://github.com/user-attachments/assets/7ebd16bf-f7a3-4489-9dbf-6d33e9c44825)
 
 ---
 
 ### 👤 User Profile Page
-![Profile Window](https://user-images.githubusercontent.com/133280306/270230276-7b6a2f49-eed3-4ac4-b3f1-d356d6f17e60.jpg)
-
+![Profile Window](https://github.com/user-attachments/assets/afa19698-90c9-42c8-a1aa-ea90e42b6370)
 ---
 
 ### 💬 Chat Window
-![Chat Window](https://user-images.githubusercontent.com/133280306/270230275-c0a57d87-61fd-41a2-a914-8863ccbb0576.jpg)
-
+![Chat Window](https://github.com/user-attachments/assets/c5631231-c2c4-4969-a64e-a14ddf6e69e3)
 
 ---
 ##  Project Status
