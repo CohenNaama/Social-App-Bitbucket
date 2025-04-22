@@ -1,6 +1,14 @@
 # Social App 💬 (Hosted on Bitbucket)
 
-An advanced fullstack social networking app built with Flask (Backend) and React (Frontend), featuring real-time chat, JWT authentication, and state management with Redux.
+![Flask](https://img.shields.io/badge/backend-Flask-blue)
+![React](https://img.shields.io/badge/frontend-React-blue)
+![Socket.IO](https://img.shields.io/badge/real--time-Socket.IO-purple)
+![Redux](https://img.shields.io/badge/state-Redux-orange)
+![SQL Server](https://img.shields.io/badge/database-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+
+A fullstack real-time social networking platform built with **Flask** (backend) and **React** (frontend), supporting chat, notifications, authentication, and rich user interaction.  
+🖥️ Developed with modern web technologies and state-of-the-art architecture.
 
 > 📦 **Note:** This project is hosted on Bitbucket as part of my DevOps practice.
 
